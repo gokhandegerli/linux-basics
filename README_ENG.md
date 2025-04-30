@@ -1,4 +1,4 @@
-### Basic Linux Training from Scratch
+### Basic Linux Details
 
 #### GNU/Linux Fundamentals
 
